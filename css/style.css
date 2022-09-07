@@ -85,7 +85,7 @@ body {
   width: 90vh;
   height: 90vh;
   border-radius: 50%;
-  border: 2px dashed gold;
+  /* border: 2px dashed gold; */
 
   display: -ms-grid;
 
@@ -115,7 +115,7 @@ body {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  border: 2px dashed gold;
+  /* border: 2px dashed gold; */
 
   position: absolute;
   left: calc(-120px / 2);
